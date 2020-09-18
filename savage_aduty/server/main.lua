@@ -79,7 +79,7 @@ AddEventHandler('savage_aduty:logsov', function()
 end)
 
 function discordlogs (name,message,color)
-    local DiscordWebHook = "https://discord.com/api/webhooks/747086088153202699/J34iRREnSXJSmLH8CDgu6nXTwtBIswqD2sfE8OYVJ5eylp1j1w9ZtSLF6XUnyugtHCKC"
+    local DiscordWebHook = ""
     
     local embeds = {
         {
