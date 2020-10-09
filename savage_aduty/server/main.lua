@@ -87,7 +87,7 @@ function discordlogs (name,message,color)
             ["type"]="rich",
             ["color"] =color,
             ["footer"]=  {
-            ["text"]= "TacoLife Logs - "..os.date("%x %X %p"),
+            ["text"]= "SavageAduty - "..os.date("%x %X %p"),
            },
         }
     }
